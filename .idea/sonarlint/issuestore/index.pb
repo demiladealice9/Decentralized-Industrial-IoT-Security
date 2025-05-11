@@ -13,3 +13,7 @@ c
 3Decentralized-Industrial-IoT-Security/tsconfig.json,a/8/a8d613b2b150c0d2847bc7186abfd9940b097947
 b
 2Decentralized-Industrial-IoT-Security/package.json,2/0/2094f9fa5a62044401de32f6a8c3360a8323e237
+T
+$contracts/firmware-verification.clar,c/3/c3aa45ad2b18144c45e5fa4552de834bbaa31eaa
+S
+#tests/firmware-verification.test.ts,d/5/d57904ae7b262bef90d39da72d1f201c7d309bcd
